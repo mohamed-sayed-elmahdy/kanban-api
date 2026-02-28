@@ -1,7 +1,7 @@
 {
   "name": "kanban-api",
   "scripts": {
-    "start": "json-server db.json --port $PORT"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "0.17.4"
